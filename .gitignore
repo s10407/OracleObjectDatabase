@@ -3,5 +3,5 @@
 ################################################################################
 
 /.vs
-/OracleObjectDatabase/obj/Debug
-/OracleObjectDatabase.DAL/obj/Debug
+*/[Bb]in/
+*/[Oo]bj/
